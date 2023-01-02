@@ -11,7 +11,7 @@ Validation done on all the forms just like below registration page
 
 3) Login Page
 
-        ![login](https://user-images.githubusercontent.com/76418867/210213412-6235d265-89b9-48d0-ac22-688d93dd5168.png)
+     ![login](https://user-images.githubusercontent.com/76418867/210213412-6235d265-89b9-48d0-ac22-688d93dd5168.png)
 
 4) Adding campground page
          ![newCamp](https://user-images.githubusercontent.com/76418867/210213491-eea55830-dede-4c4b-84bd-6e8add203444.png)
